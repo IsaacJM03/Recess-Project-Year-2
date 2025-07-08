@@ -1,0 +1,34 @@
+👤 Isaac + Jonathan – Data Cleaning & Preprocessing
+Task 1: Explore dataset, identify missing values, % missing data
+
+Task 2: Choose and justify missing data handling method
+
+Task 3: Implement and evaluate the method
+
+Include: screenshots before/after cleaning
+
+👤 Johnson + Jonathan – Feature Engineering
+Task 4: Identify potential features
+
+Task 5: Apply feature engineering techniques
+
+Task 6: Evaluate the impact of new features
+
+👤 Mariam – Visualization
+Task 7: Identify key variables for visualization
+
+Task 8: Create visualizations (Matplotlib, Seaborn, Plotly)
+
+Task 9: Interpret visualizations and insights
+
+👤 Bridget – Modeling
+Task 10: Split data, train models
+
+Task 11: Perform cross-validation and model evaluation
+
+👤 Whole Group – Report Writing & Final Summary
+Task 12: Conclusions, insights, recommendations
+
+Dataset introduction, objectives, and general report formatting
+
+Assemble screenshots, plots, and annotations into the final report

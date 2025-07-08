@@ -1,0 +1,27 @@
+Take note:(some of you might forget to read the recess pdf)
+
+1.⁠ ⁠Submission Deadline is 18th July 11:59pm
+
+2.⁠ ⁠Every group has to set up atleast one convenient date within these 2 weeks to meet its supervisor via the class zoom link (the exact one is yet to be established)
+
+3.⁠ ⁠Physical final presentations will take place before 17th July on a date to be communicated
+
+4.⁠ ⁠Each group should email the supervisors the link to the GitHub repository with the recess project jeff.geoff.mis@gmail.com (Dr. Jeff) and carbon copy ndigezzalivingstone2@gmail.com (Dr. Livingstone)
+
+5.⁠ ⁠For the groups doing Data Science,  make sure to include a final report (not more than 10 pages) both soft & hard copy including;
+•⁠  ⁠an introduction about your dataset 
+•⁠  ⁠the 12 tasks
+•⁠  ⁠key objectives for analyzing your data
+•⁠  ⁠pictures and explanations of your data before and after cleaning it etc.,
+•⁠  ⁠well annotated screenshots of any visualizations (plots/tables) generated
+•⁠  ⁠deductions/conclusions 
+
+6.⁠ ⁠And for the groups doing Web Dev't projects, your final report (still not more than 10 pages) including; 
+•⁠  ⁠an introduction to your web app
+•⁠  ⁠screenshots of your projects
+•⁠  ⁠documentation of your web app systems
+•⁠  ⁠source code of your project via a link to your Github 
+
+7.⁠ ⁠Use Python and analytics functions to interrogate the data given and derive insights about it. Make sure to include most of the functions you learn
+
+8.⁠ ⁠PS: Using functions that were not in the lecture scope will earn your group higher marks
